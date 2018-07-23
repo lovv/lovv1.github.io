@@ -1,0 +1,60 @@
+#u1920
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow: 4px 4px 8px -1px rgba(0, 0, 0, 0.25);
+	box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.25);
+	border-style: none;
+	border-color: transparent;
+	background-color: #069FB3;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u1927-4,#u1925-4,#u1921-4,#u1922-4,#u1923-4,#u2276-4
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: left;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: fixed;
+}
+
+#u1924-4
+{
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: right;
+	font-family: ubuntu, sans-serif;
+	font-weight: 300;
+	position: fixed;
+}
+
+.js #u1920.ose_pre_init,.js #u1927-4.ose_pre_init,.js #u1925-4.ose_pre_init,.js #u1921-4.ose_pre_init,.js #u1922-4.ose_pre_init,.js #u1923-4.ose_pre_init,.js #u2276-4.ose_pre_init,.js #u1924-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u1819
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #CC7E22;
+}
+

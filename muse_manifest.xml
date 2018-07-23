@@ -1,0 +1,117 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1517152580182">
+  <folder name="css">
+    <file name="site_global.css" crc="172906981"/>
+    <file name="master_______-a.css" crc="4129304180" ref="index"/>
+    <file name="master_______-b.css" crc="456953008" ref="о-компании:оплата-и-доставка-товара:оферта:форма"/>
+    <file name="_-________.css" crc="4075998202" ref="о-компании"/>
+    <file name="______-_-________-______.css" crc="4043096436" ref="оплата-и-доставка-товара"/>
+    <file name="index.css" crc="195196941" ref="index"/>
+    <file name="iefonts_index.css" crc="490960884" ref="index"/>
+    <file name="______.css" crc="494598024" ref="оферта"/>
+    <file name="_____.css" crc="31069854" ref="форма"/>
+    <file name="iefonts______.css" crc="4226106425" ref="форма"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:о-компании:форма:оплата-и-доставка-товара:оферта"/>
+    <file name="museutils.js" crc="3777594392" ref="index:о-компании:форма:оплата-и-доставка-товара:оферта"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:о-компании:форма:оплата-и-доставка-товара:оферта"/>
+    <file name="pie.js" crc="3827607177" ref="index:о-компании:форма"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:форма:оплата-и-доставка-товара"/>
+    <file name="webpro.js" crc="474087315" ref="index:форма"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
+    <file name="touchswipe.js" crc="100683906" ref="index"/>
+    <file name="form_check.php" crc="306825315" ref="форма"/>
+    <file name="form_throttle.php" crc="4293816517" ref="форма"/>
+    <file name="form_process.php" crc="109188895" ref="форма"/>
+    <file name="form-u1959.php" crc="4280295244" ref="форма"/>
+  </folder>
+  <folder name="images">
+    <file name="microby.png" crc="362969170" ref="index"/>
+    <file name="tlf.png" crc="310695812" ref="index"/>
+    <file name="microby3.png" crc="4210817634" ref="index"/>
+    <file name="microby4.png" crc="261178868" ref="index"/>
+    <file name="str.png" crc="4133444011" ref="index"/>
+    <file name="microby7.png" crc="4139464086" ref="index"/>
+    <file name="microby8.png" crc="4124647568" ref="index"/>
+    <file name="microby9.png" crc="4038784685" ref="index"/>
+    <file name="microby2.png" crc="3999354744" ref="index"/>
+    <file name="microby55.png" crc="3803133767" ref="index"/>
+    <file name="micro1.png" crc="3868539689" ref="index"/>
+    <file name="bloodmin2.jpg" crc="60644224" ref="index"/>
+    <file name="onionmini.jpg" crc="3944030474" ref="index"/>
+    <file name="volmin.jpg" crc="3973201459" ref="index"/>
+    <file name="frame7.png" crc="535669337" ref="index"/>
+    <file name="frame1.png" crc="3771077081" ref="index"/>
+    <file name="desk1.png" crc="4131687784" ref="index"/>
+    <file name="micro2.png" crc="346560026" ref="index"/>
+    <file name="u529-sprite.png" crc="3868464442" ref="index"/>
+    <file name="lastik-u547.png" crc="4041016408" ref="index"/>
+    <file name="plenka-u557.png" crc="3854375223" ref="index"/>
+    <file name="tubus.png" crc="4276073397" ref="index"/>
+    <file name="strr1.png" crc="3872312872" ref="index"/>
+    <file name="str2.png" crc="199380723" ref="index"/>
+    <file name="str4.png" crc="40806161" ref="index"/>
+    <file name="microby22.png" crc="218361789" ref="index"/>
+    <file name="microby21.png" crc="4012758892" ref="index"/>
+    <file name="microby11.png" crc="4182165718" ref="index"/>
+    <file name="microby12.png" crc="4275125799" ref="index"/>
+    <file name="onion-u964-fr.jpg" crc="329256283" ref="index"/>
+    <file name="shar3.png" crc="4179229821" ref="index"/>
+    <file name="arr8.png" crc="24122150" ref="index"/>
+    <file name="frame22.png" crc="4185566833" ref="index"/>
+    <file name="frame22345.png" crc="226016411" ref="index"/>
+    <file name="plenka-u1039.png" crc="143506947" ref="index"/>
+    <file name="nozn.png" crc="384982062" ref="index"/>
+    <file name="frame21.png" crc="502228403" ref="index"/>
+    <file name="tubus12345.png" crc="102179404" ref="index"/>
+    <file name="stek2.png" crc="4245745086" ref="index"/>
+    <file name="tubus1234567.png" crc="3838573853" ref="index"/>
+    <file name="arrow111.png" crc="4061557214" ref="index"/>
+    <file name="arrow1111.png" crc="16938989" ref="index"/>
+    <file name="arrow11111.png" crc="480674609" ref="index"/>
+    <file name="wave3.png" crc="3839467898" ref="index:оплата-и-доставка-товара"/>
+    <file name="otz11.png" crc="243137625" ref="index"/>
+    <file name="otz34.png" crc="288609642" ref="index"/>
+    <file name="otz777.png" crc="3764038189" ref="index"/>
+    <file name="otz8.png" crc="315743064" ref="index"/>
+    <file name="otz223.png" crc="3975105437" ref="index"/>
+    <file name="m-b2.png" crc="3875538517" ref="index"/>
+    <file name="vawe.png" crc="337111552" ref="index"/>
+    <file name="onion.png" crc="4110546011" ref="index"/>
+    <file name="micro3.png" crc="3831804072" ref="index"/>
+    <file name="frame23.png" crc="48026434" ref="index"/>
+    <file name="arr7.png" crc="373544626" ref="index"/>
+    <file name="arr4.png" crc="65030797" ref="index"/>
+    <file name="arr5.png" crc="3951202651" ref="index"/>
+    <file name="g.png" crc="272899866" ref="index"/>
+    <file name="fon3.png" crc="230381308" ref="index"/>
+    <file name="lev1.jpg" crc="517807671" ref="index"/>
+    <file name="leven-u1736-fr.jpg" crc="252599835" ref="index"/>
+    <file name="vawe2.png" crc="4198143026" ref="index"/>
+    <file name="fon2.png" crc="104896021" ref="index"/>
+    <file name="fon1.png" crc="4284453518" ref="index"/>
+    <file name="shema.png" crc="3990730326" ref="index"/>
+    <file name="form.png" crc="3817793723" ref="форма"/>
+    <file name="u1967-17.png" crc="3773456466" ref="форма"/>
+    <file name="u1967-17-r.png" crc="3944017752" ref="форма"/>
+    <file name="u1967-17-m.png" crc="77585617" ref="форма"/>
+    <file name="u1967-17-fs.png" crc="4005750939" ref="форма"/>
+    <file name="checkboxunchecked.jpg" crc="405823397" ref="форма"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="519912240" ref="форма"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="122200449" ref="форма"/>
+    <file name="checkboxchecked.jpg" crc="4220967324" ref="форма"/>
+    <file name="checkboxcheckedrollover.jpg" crc="523498870" ref="форма"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="3923721351" ref="форма"/>
+    <file name="map1.jpg" crc="318422696" ref="оплата-и-доставка-товара"/>
+    <file name="post.png" crc="284496087" ref="оплата-и-доставка-товара"/>
+    <file name="wave4.png" crc="4102242802" ref="оплата-и-доставка-товара"/>
+    <file name="wave44.png" crc="391904144" ref="оплата-и-доставка-товара"/>
+  </folder>
+  <file name="index.html" crc="533750134" mt="1517152049350" redirect="true"/>
+  <file name="о-компании.html" crc="170077683" mt="1517152212964" redirect="true"/>
+  <file name="форма.html" crc="3884062948" mt="1517152457759" redirect="true"/>
+  <file name="оплата-и-доставка-товара.html" crc="3902635478" mt="1517152212967" redirect="true"/>
+  <file name="оферта.html" crc="4233656323" mt="1517152212968" redirect="true"/>
+</manifest>
